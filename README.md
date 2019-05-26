@@ -1,5 +1,6 @@
 # MLT Edge AI
 We are excited to kick off our first Embedded ML workshop - a combination of presentation and ideathon.
+https://www.meetup.com/Machine-Learning-Tokyo/
 
 Firstly, we will talk about the promise of light-weight deep neural networks for energy-efficient and low-cost IoT applications. We discuss some examples of accelerated and low-memory version of deep learning models for real-time use, predictive maintenance, time-series analysis, and demand forecast. We focus on AI methods for turning IoT data into insights and actions.
 
