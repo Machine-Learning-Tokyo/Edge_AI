@@ -21,6 +21,10 @@ Hossein Izadi Rad is a Ph.D. candidate of Information Science and Technology wit
 Yoovraj Shinde is the Co-Founder of MLT and currently working as Technologist at Rakuten Institute of Technology. Electronics Engineer by heart, but worked in software industry for about 8 years. Worked on FrontEnd, BackEnd Java systems, iOS app development. His interests are Machine Learning and Robotics.
 
 
+## 9 WORKSHOP TEAMS: IMPRESSIONS
+
+
+
 <p align="center">
   <img src="https://github.com/Machine-Learning-Tokyo/Edge_AI/blob/master/images/1.jpg" width="600">
   <img src="https://github.com/Machine-Learning-Tokyo/Edge_AI/blob/master/images/2.jpg" width="600">
