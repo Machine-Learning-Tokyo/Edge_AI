@@ -18,4 +18,16 @@ After the introductory talk about Edge AI we will build teams of 3-5 people and 
 
 Hossein Izadi Rad is a Ph.D. candidate of Information Science and Technology with the University of Tokyo. He has an M.E. degree in Electrical Engineering. His recent works are concerned with off-the-cloud time-series prediction and demand forecast. He has collaborated with several tech startups in Tokyo.
 
-Yoovraj Shinde is the Co-Founder of MLT and currently working as Technologist at Rakuten Institute of Technology. Electronics Engineer by heart, but worked in software industry for about 8 years. Worked on FrontEnd, BackEnd Java systems, iOS app development. Part Time hobbies: Robot Club and Machine Learning
+Yoovraj Shinde is the Co-Founder of MLT and currently working as Technologist at Rakuten Institute of Technology. Electronics Engineer by heart, but worked in software industry for about 8 years. Worked on FrontEnd, BackEnd Java systems, iOS app development. His interests are Machine Learning and Robotics.
+
+
+<p align="center">
+  <img src="https://github.com/Machine-Learning-Tokyo/Edge_AI/blob/master/images/1.jpg" width="600">
+  <img src="https://github.com/Machine-Learning-Tokyo/Edge_AI/blob/master/images/2.jpg" width="600">
+  <img src="https://github.com/Machine-Learning-Tokyo/Edge_AI/blob/master/images/3.jpg" width="600">
+  <img src="https://github.com/Machine-Learning-Tokyo/Edge_AI/blob/master/images/4.jpg" width="600">
+  <img src="https://github.com/Machine-Learning-Tokyo/Edge_AI/blob/master/images/5.jpg" width="600">
+  <img src="https://github.com/Machine-Learning-Tokyo/Edge_AI/blob/master/images/6.jpg" width="600">
+  <img src="https://github.com/Machine-Learning-Tokyo/Edge_AI/blob/master/images/7.jpg" width="600">
+</p>
+
